@@ -1,0 +1,11 @@
+1. Data Sources:
+I5 Highway Data: Data for truck AADT (Annual Average Daily Traffic) in 2019, located at:
+2019 Data: "D:/143/project/rows_deleted_files/truck aadt/cleaned_cleaned_2019-truck-aadt.csv"
+Coordinates Data: "i5 2019 coordinates.csv"
+2.
+Visualize the data: Plot the sampling points (based on coordinates) on a map and use different colors for marking the points according to their AADT values.
+For 2019: Use the 2019 data to draw the I-5 highway, marking the points with varying colors based on AADT values.
+Dynamic map for years 2019-2022: After visualizing 2019, you can extend the map to show the data from 2019-2022, creating a dynamic or animated visualization that displays how the AADT changes over time.
+3. Predict Future Data (2023-2025):
+Predict Traffic for 2023-2026: Based on the data from 2019-2022, use linear regression or another predictive model to forecast the AADT for 2023-2025.
+Plot Predicted Results: Once predictions are made, plot these future predictions as part of the visualization.
