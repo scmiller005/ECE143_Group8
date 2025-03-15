@@ -18,7 +18,7 @@ Kexin Bian, Pengfei (Jacob) Zhan, Ian Jayachandran, Pranav Kulkarni, Scott Mille
 * seaborn as sns
 
 ### Notebook Organization Overview
-"ECE143_Group8_Visualizations.ipynb" is the primary notebook displaying all of the relevant graphics generated for our final presentation
+"ECE143_Group8_Visualizations.ipynb" is the primary notebook displaying all of the relevant graphics generated for our final presentation. Run the relevant .py or .ipynb files in each folder to view the graphs/results.
 
 The rest of the respository is dedicated to all of the code, data, and graphics produced throughout the project
 * *Note:* much of this did not make it to the final presentation, but is included here to track progress
